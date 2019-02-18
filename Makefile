@@ -1,4 +1,4 @@
-helloSUSE: hello.o
+helloSUSSE: hello.o
 	gcc -o helloSUSE hello.o
 
 hello.o: hello.c
